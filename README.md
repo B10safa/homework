@@ -1,2 +1,1 @@
-# yzuHelper
-Yzu's website.
+# Homework
